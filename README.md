@@ -10,7 +10,8 @@ Rodrigo Ribeiro dos Santos | [Linkedin](https://www.linkedin.com/in/rodrigo-ribe
 </div>
 
 <div>
-  <ul>
+ <h2 align="center"> descrição das pastas </h2>
+ <ul>
     <Li>Pasta-Doc= waireframe Desktop-Mobile.pdf  </Li>
     <Li>Pasta-static=Pasta-CSS= home.css </Li>
     <Li>Pasta-static=Pasta-img= (gifff.gif),(gift.gif),(git.png),(linkedin.png),(quadro.jpg). </Li>
