@@ -10,8 +10,8 @@ Rodrigo Ribeiro dos Santos | [Linkedin](https://www.linkedin.com/in/rodrigo-ribe
 </div>
 
 <div>
- <h1 align="center">Portifolio Navegavel</h1>
- <h3 align="center">Entrega Parcial</h3>
+ <h1 align="center">Entrega Parcial</h1>
+ <h3 align="center">Portifolio Navegavel</h3>
  
  <h2 align="center"> Descrição das pastas </h2>
  <ul>
