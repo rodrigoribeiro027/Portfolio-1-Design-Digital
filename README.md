@@ -11,6 +11,8 @@ Rodrigo Ribeiro dos Santos | [Linkedin](https://www.linkedin.com/in/rodrigo-ribe
 
 <div>
  <h1 align="center">Portifolio Navegavel</h1>
+ <h3 align="center">Entrega Parcial</h3>
+ 
  <h2 align="center"> Descrição das pastas </h2>
  <ul>
     <Li>Pasta-Doc= waireframe Desktop-Mobile.pdf  </Li>
