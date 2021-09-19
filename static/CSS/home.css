@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    font-family: 'Fjalla One', sans-serif;
+}
+footer{
+    background-color: black;
+    padding: 30px;
+    color:white;
+    margin-top: 25%;
+}
+
+#topmenu{
+    display: flex;
+    background-color:rgb(220,220,220);
+    margin: 0;
+    padding: auto;
+}
+.foto1{
+    width: 40px;
+    filter: contrast(12);
+    
+}
+
+.H1{
+    text-align:center;
+}
+
+#topmenu li{
+   
+    background-color:rgb(220,220,220);
+    margin: 0;
+    text-decoration: none;
+    display:block;
+    padding: 1px;
+   
+}
+
+#topmenu li:first-child{
+    margin-right: auto;
+}
+.seçao1{
+    display:flex;
+    height: 28vh;
+    
+}
+
+.conteiner{
+    display:flex;
+    height: 50%;
+    width: 100%;
+    margin: 0%;
+}
+.conteiner1{
+    display:flex;
+    height: 50%;
+    width: 100%;
+    margin: 0%;
+    margin-top: 1%;
+    position:absolute;
+}
+
+.centralize{
+   
+    text-align: center;
+    
+}
+.seçao2{
+    display: flex;
+    background-color: white;
+    width: 33vh;
+}
+.imagemprojeto1{
+    width: 40vh;
+    height: 35vh;
+    padding-left: 10%;
+    padding-top: 1%;
+    filter: brightness(0,5);
+}
+.imagemprojeto3{
+    width: 40vh;
+    height: 30vh;
+    padding-top: 1%;
+    padding-left: 40%;
+
+    
+ }
+.imagemprojeto2{
+    width: 40vh;
+    height: 40vh;
+    padding-left: 20%;
+    padding-top: 1;
+    filter: brightness(5);
+    filter: contrast(1);
+    }
+
+.text1{
+margin-left: 1%;
+}
+#text2{
+    margin-right: 1%;
+    margin-left:1%;
+    border: 5px solid black;
+    border-radius: 15px;
+     }
+
+
+#body{
+    background-color: rgba(240,248,255);
+}
+
+.buttonClass{
+    font-size:15px;
+    font-family:Arial;
+    width:200px;
+    height:100px;
+    border-width:1px;
+    color:#666666;
+    border-color:#dcdcdc;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+    text-shadow:inset 0px 1px 0px #ffffff;
+    background:linear-gradient(#ffffff, #f6f6f6);
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#f6f6f6, #ffffff);
+  }
+
+.image3{
+    width: 25%;
+    margin-left: 35%;
+    
+
+  }
+ 
