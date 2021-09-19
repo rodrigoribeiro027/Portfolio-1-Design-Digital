@@ -4,8 +4,7 @@
     
     
 
-Linkedin | Github|
-:--------- | :------: | :-------: | :-------:
+Linkedin | Github| 
 
 Rodrigo Ribeiro dos Santos | DT | [Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)  
 <br>
