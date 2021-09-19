@@ -24,7 +24,7 @@
  <div>
   </p>
 
-## Contact :iphone:
+## Contato :iphone:
 
 <p align="center">
     <a href="https://github.com/rodrigoribeiro027">
