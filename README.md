@@ -14,7 +14,13 @@
     <Li>README.md
   </ul>
  <div>
- 
+ <h2 align="center">Entrega</h2>
+  <ul>
+    <Li>Waireframe-Desktop-Mobile(em pdf na pasta Doc) :heavy_check_mark:  </Li>
+    <Li>               </Li>
+  
+  </ul>
+  
 <div>
 <h1 align="center">link para video no youtube</h1>
 <p align="center">Portifolio Navegavel</p>
