@@ -2,7 +2,7 @@
 <h2 align="center"> Rodrigo Ribeiro Dos Santos </h2>
 
  <h1 align="center">Entrega Parcial</h1>
- <h2 align="center">Portifolio Navegavel</h2>
+ <h2 align="center">Portifolio Navegável</h2>
  <div>
  <h3 align="center"> Descrição das pastas </h3>
    <ul>
