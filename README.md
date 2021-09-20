@@ -34,7 +34,7 @@
  <div>
   </p>
  
- <p Atenção entrega parcial não é a entrega final </p>
+ <h4> Atenção entrega parcial não é a entrega final </h4>
 
 
  
