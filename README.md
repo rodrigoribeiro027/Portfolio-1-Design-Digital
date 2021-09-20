@@ -26,8 +26,10 @@
    <h2> Entrega 2 </h2>
     <p>Para a próxima Entrega, pretendo realizar os seguintes incrementos:</p>
      <ul>
-       <Li>1°Sistema responsivo:pushpin:</li>
-       <Li>2°Implementação de imagens :pushpin:</li>
+       <Li>:pushpin:Sistema responsivo</li>
+       <Li>:pushpin:Implementação de imagens</li>
+      <li>:pushpin:Informações educacionais<li>
+      <li>:pushpin:informações pertinentes (Interesses,Curiosidades). <li>
        
    
   </ul>
