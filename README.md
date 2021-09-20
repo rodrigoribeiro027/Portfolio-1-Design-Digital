@@ -34,6 +34,13 @@
   </ul>
  </div>
 <div>
+ <h2>Direitos Autorais utilizados nas imagens</h2>
+ :link:[pexels](https://www.pexels.com/pt-br/licenca/)
+ 
+ </div>
+ 
+ 
+ <div>
   <h1 align="center">link para video no youtube</h1>
   <p align="center">Video navegando pelas Interfaces do sistema.</p>
  
