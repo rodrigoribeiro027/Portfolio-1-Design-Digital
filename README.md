@@ -64,6 +64,6 @@
  
  <h4> Atenção Esta entrega parcial não é a entrega final.  </h4>
 
-  <h5 alig="center">Esta README.MD foi terminado em :date: 20/09/2021 -:watch: 17:00 </h5>
-
+  <h5 align="center">Esta README.MD foi terminado em :date: 20/09/2021 -:watch: 17:00 </h5>
+</div>
  
