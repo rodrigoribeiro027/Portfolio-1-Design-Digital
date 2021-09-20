@@ -18,7 +18,7 @@
      <ul>
        <Li>Waireframe-Desktop-Mobile(em pdf na pasta Doc) :heavy_check_mark:  </Li>
        <Li> Portifolio Navegavel  :heavy_check_mark: </Li>
-       <Li>codigo HTML(Pasta/templates/) E CSS(static/CSS):heavy_check_mark:</Li>
+       <Li>codigo HTML(Pasta/templates/) E CSS(Pasta/static/CSS):heavy_check_mark:</Li>
        <Li> vídeo do YouTube :heavy_check_mark:</Li>
      </ul>
   </div>
