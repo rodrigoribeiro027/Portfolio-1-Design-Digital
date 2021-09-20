@@ -7,8 +7,8 @@
  <h3 align="center"> Descrição das pastas </h3>
    <ul>
       <Li>:file_folder:Doc= waireframe Desktop-Mobile.pdf  </Li>
-      <Li>:file_folder:static=Pasta-CSS= home.css </Li>
-      <Li>:file_folder:static=Pasta-img= (gifff.gif),(gift.gif),(git.png),(linkedin.png),(quadro.jpg). </Li>
+      <Li>:file_folder:static=:file_folder:Pasta-CSS= home.css </Li>
+      <Li>:file_folder:static=:file_folder:Pasta-img= (gifff.gif),(gift.gif),(git.png),(linkedin.png),(quadro.jpg). </Li>
       <Li>:card_index_dividers:	templates= (Contato.html),(Projetos1.html),(homesite.html),(sobre1.html). </Li>
       <Li>README.md
     </ul>
