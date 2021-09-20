@@ -35,7 +35,15 @@
  </div>
 <div>
  <h2>Direitos Autorais utilizados nas imagens</h2>
- :link: [pexels] (https://www.pexels.com/pt-br/licenca/)
+   <h3>Algumas imagens foram retiradas do Pexels Direitos Autorais abaixo</h3>
+  
+  :link: [pexels](https://www.pexels.com/pt-br/licenca/)
+ <div>
+ <h3>Algumas imagens foram retiradas do Google images/ferramentas/direitos de uso/Licenças Creative Commons</h3>
+  
+ :link: [Support Google Images](https://support.google.com/websearch/answer/29508?hl=pt-Br)
+ </div>
+ 
  
  </div>
  
@@ -44,9 +52,10 @@
   <h1 align="center">link para video no youtube</h1>
   <p align="center">Video navegando pelas Interfaces do sistema.</p>
  
- :link:[YOUTUBE](https://www.youtube.com/watch?v=Chd80Cysy74)
  
-  
+    
+  :link: [YOUTUBE](https://www.youtube.com/watch?v=Chd80Cysy74)
+
 
  
  <div>
