@@ -16,7 +16,7 @@
  <div>
     <h2 align="center">Entrega 1 Parcial</h2>
      <ul>
-       <Li>Waireframe-Desktop-Mobile(em pdf na pasta:file_folder: Doc) :heavy_check_mark:  </Li>
+       <Li>Waireframe-Desktop-Mobile(em pdf na :file_folder:pasta Doc) :heavy_check_mark:  </Li>
        <Li> Prototipo Navegavel  :heavy_check_mark: </Li>
        <Li>Codigo HTML(:file_folder:Pasta/templates/) E CSS(:file_folder:Pasta/static/CSS):heavy_check_mark:</Li>
        <Li> Vídeo do YouTube :heavy_check_mark:</Li>
