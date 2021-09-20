@@ -18,8 +18,8 @@
      <ul>
        <Li>Waireframe-Desktop-Mobile(em pdf na pasta Doc) :heavy_check_mark:  </Li>
        <Li> Prototipo Navegavel  :heavy_check_mark: </Li>
-       <Li>codigo HTML(Pasta/templates/) E CSS(Pasta/static/CSS):heavy_check_mark:</Li>
-       <Li> vídeo do YouTube :heavy_check_mark:</Li>
+       <Li>Codigo HTML(:file_folder:Pasta/templates/) E CSS(:file_folder:Pasta/static/CSS):heavy_check_mark:</Li>
+       <Li> Vídeo do YouTube :heavy_check_mark:</Li>
      </ul>
   </div>
  <div>
@@ -29,15 +29,15 @@
         <Li>:pushpin:Sistema responsivo</li>
         <Li>:pushpin:Implementação de imagens</li>
         <li>:pushpin:Informações educacionais</li>
-        <li>:pushpin:informações pertinentes (Interesses,Curiosidades).</li>
-        <li>:pushpin:informações relevantes ou de interesse do autor/proprietário.</li>
+        <li>:pushpin:Informações pertinentes (Interesses,Curiosidades).</li>
+        <li>:pushpin:Informações relevantes ou de interesse do autor/proprietário.</li>
   </ul>
  </div>
 <div>
- <h2>Direitos Autorais utilizados nas imagens</h2>
+ <h2>:copyright:Direitos Autorais utilizados nas imagens</h2>
    <h3>Algumas imagens foram retiradas do Pexels Direitos Autorais abaixo</h3>
   
-  :link: [pexels](https://www.pexels.com/pt-br/licenca/)
+  :link: [Pexels](https://www.pexels.com/pt-br/licenca/)
  <div>
  
   <h3>Algumas imagens foram retiradas do Google images/ferramentas/direitos de uso/Licenças Creative Commons</h3>
