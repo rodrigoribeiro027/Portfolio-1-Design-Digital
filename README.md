@@ -62,7 +62,7 @@
  <div>
   </p>
  
- <h4> Atenção Esta entrega parcial não é a entrega final  </h4>
+ <h4> Atenção Esta entrega parcial não é a entrega final.  </h4>
 
 
  
