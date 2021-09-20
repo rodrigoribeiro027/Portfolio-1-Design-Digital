@@ -22,11 +22,21 @@
        <Li> vídeo do YouTube :heavy_check_mark:</Li>
      </ul>
   </div>
+ <div>
+   <h2> Entrega 2 </h2>
+    <p>Para a próxima Entrega, pretendo realizar os seguintes incrementos:</p>
+     <ul>
+       <Li>1°Sistema responsivo:pushpin:</li>
+       <Li>2°Implementação de imagens :pushpin:</li>
+       
+   
+  </ul>
+ </div>
 <div>
   <h1 align="center">link para video no youtube</h1>
   <p align="center">Video navegando pelas Interfaces do sistema.</p>
  
- [YOUTUBE](https://www.youtube.com/watch?v=Chd80Cysy74)
+ :link:[YOUTUBE](https://www.youtube.com/watch?v=Chd80Cysy74)
  
   
 
