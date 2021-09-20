@@ -35,7 +35,7 @@
  </div>
 <div>
  <h2>Direitos Autorais utilizados nas imagens</h2>
- :link:[pexels](https://www.pexels.com/pt-br/licenca/)
+ :link: [pexels] (https://www.pexels.com/pt-br/licenca/)
  
  </div>
  
