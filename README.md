@@ -26,7 +26,7 @@
   <h1 align="center">link para video no youtube</h1>
   <p align="center">Portifolio Navegavel</p>
   
-  .[YOUTUBE](https://www.youtube.com/watch?v=G11MwFpLYeo)
+   <p align="center">[YOUTUBE](https://www.youtube.com/watch?v=G11MwFpLYeo)</p>
  
   <br>
 
