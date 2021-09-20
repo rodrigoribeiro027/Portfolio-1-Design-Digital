@@ -7,10 +7,10 @@
  
  <h3 align="center"> Descrição das pastas </h3>
  <ul>
-    <Li>Pasta-Doc= waireframe Desktop-Mobile.pdf  </Li>
-    <Li>Pasta-static=Pasta-CSS= home.css </Li>
-    <Li>Pasta-static=Pasta-img= (gifff.gif),(gift.gif),(git.png),(linkedin.png),(quadro.jpg). </Li>
-    <Li>Pasta-templates= (Contato.html),(Projetos1.html),(homesite.html),(sobre1.html). </Li>
+    <Li>:package:-Doc= waireframe Desktop-Mobile.pdf  </Li>
+    <Li>:package:-static=Pasta-CSS= home.css </Li>
+    <Li>:package:-static=Pasta-img= (gifff.gif),(gift.gif),(git.png),(linkedin.png),(quadro.jpg). </Li>
+    <Li>:package:-templates= (Contato.html),(Projetos1.html),(homesite.html),(sobre1.html). </Li>
     <Li>README.md
   </ul>
  <div>
