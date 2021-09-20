@@ -30,7 +30,8 @@
         <Li>:pushpin:Implementação de imagens</li>
         <li>:pushpin:Informações educacionais</li>
         <li>:pushpin:informações pertinentes (Interesses,Curiosidades).</li>
-       </ul>
+        <li>:pushpin:informações relevantes ou de interesse do autor/proprietário.</li>
+  </ul>
  </div>
 <div>
   <h1 align="center">link para video no youtube</h1>
