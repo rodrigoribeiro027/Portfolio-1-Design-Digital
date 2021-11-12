@@ -9,9 +9,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="meu/quadro.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="../static/img/oculos.png" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="home.css">
-    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <title>Sobre</title>
 
 
@@ -19,59 +19,92 @@
 </head>
     <body id="body">
         <!--TOPO -->
-        <div>
-            <nav>
-                <ul id="topmenu">    
-                
-                    <li>  <a href="../templates/homesite.html"> <img src="../static/img/quadro.jpg" alt="" class="foto1"> </a>  </li>
-                    <li>  <a href="../templates/homesite.html" class="buttonClass">Home</a>  </li>
-                    <li>  <a href="../templates/sobre1.html" class="buttonClass">Sobre</a>  </li>
-                    <li>  <a href="../templates/Projetos1.html" class="buttonClass">Projetos</a> </li>
-                    <li>  <a href="../templates/Contato.html" class="buttonClass">Contato</a> </li>
-            </ul>
-        </nav>
-        </div>
-        
-        <div id="back1">
+         
+           <!-- posição às classes de uso da barra de navegação: parte superior fixa, parte inferior fixa parte superior da barra de navegação-->
+    <nav class="navbar navbar-expand-sm navbar-light  bg-light">
+      
 
-                <img  class="imagemprojeto2" src="../static/img/quadro.jpg" alt="imagem">
-                <img  class="imagemprojeto2" src="../static/img/quadro.jpg" alt="imagem">
+      
+        <!-- menu de hambúrguer -->
+        <!-- você precisa de três aulas para fazer -->
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+         <span class="navbar-toggler-icon"></span> <!-- isso cria o menu de hambúrguer -->
+        </button>
+  
+        <div class="collapse navbar-collapse" id="collapse_target">
+            <ul class="navbar-nav"> <!--2. ul tag -->
+              <li class="nav-item"> <!--3. li tag -->
+                <a class ="nav-link" href="../templates/homesite.html"> <!-- 4.li tag -->
+                  Home
+                </a>
+              </li>
+  
+              <li class="nav-item"> 
+                <a class ="nav-link" href="../templates/sobre1.html">
+                  Sobre
+                </a>
+              </li>
+  
+              <li class="nav-item"> 
+                <a class ="nav-link" href="../templates/Projetos1.html">
+                  Projetos
+                </a>
+              </li>
+  
+              <li class="nav-item"> 
+                <a class ="nav-link" href="../templates/Contato.html">
+                    Contato
+                </a>
+              </li>
+              </li>
+        </ul>
+      </div>
+      <a href="../templates/homesite.html"><img class="foto" src="../static/img/oculos.png" alt=""></a>
+      </nav>
+        
+        <div>
+
+                <img  class="imagemprojeto2" src="../static/img/foto.jpg" alt="imagem">
+                <img  class="imagemprojeto2" src="../static/img/miniprogra.jpg" alt="imagem">
                 
 
 
         </div>
         <br>
         <div id="text2">
-                <h1>
+                <h1 class="h1">
                     Rodrigo Ribeiro - 21 Anos
                 </h1>
 
-                <p>
+                <p class="p">
                     No que se refere a formação curricular aos cursos na area de tecnologia.Foi realizado um curso de desenvolvimento web na Instituição modelaço. Com recente inicio na area da programação e desenvolvimento de software na Fatec,espera-se adquirir um vasto conhecimento da area de programação para desenvolvimento de softwares e Sites entre outros sistemas.
                 </p>
     
-                <h1>Qualificação Profissional</h1>
+                <h1 class="h1">Qualificação Profissional</h1>
                 <ul>
                     <li> Informática e habilidade em  digitação</li>
                     <li> Leitura e Interpretação de desenho mecânico</li>
                     <li>  Leitura e Interpretação de desenho mecânico </li>
                 </ul>
-
-                <h1>
+                
+                <h1 class="h1">
                     Formação Acadêmica
                 </h1>
-        
-                <h2>Professor Joaquim Andrade Meirelles</h2>
-                <h3>Ensino Médio –completo,</h3>
-                <p>Finalizado em Dezembro/2018</p>
+                <h2 class="h1"> instituição de ensino Fatec São José dos Campos - Prof. Jessen Vidal</h2>
+                <h3 class="h1">Curso Desenvolvimento de Software Multiplataforma</h3>
+                <p class="h1"> 1/Semestre</p>
+
+                <h2 class="h1">Professor Joaquim Andrade Meirelles</h2>
+                <h3 class="h1">Ensino Médio –completo,</h3>
+                <p class="h1"> Finalizado em Dezembro/2018</p>
                 
                 
-                <H2>SENAI-SP</H2>
-                <H3> Curso de Inspetor de Qualidade</H3>
-                <p> Realizado em Fevereiro/2017 á Setembro/2017São José dos Campos - SP</p>
+                <H2 class="h1">SENAI-SP</H2>
+                <H3 class="h1"> Curso de Inspetor de Qualidade</H3>
+                <p class="p"> Realizado em Fevereiro/2017 á Setembro/2017São José dos Campos - SP</p>
                 
-               <H1>espectativas </H1>
-                <p>Busco superar as expectativas
+               <H1 class="h1">espectativas </H1>
+                <p class="p">Busco superar as expectativas
                     empresariais, visando captar as
                     oportunidades para desenvolver-me
                     profissionalmente o meu potencial
@@ -79,11 +112,11 @@
                     obter a efetivação e desenvolvimento
                     profissional.</p>
                 
-                <H1>Curiosidades</H1>
-                <p>
+                <H1 class="h1">Curiosidades</H1>
+                <p class="p">
                     Sou muito curioso no mundo da tecnologia,Sempre fico de olho em sites voltados a tecnologia e games como uma sujestão deixarei os links que mais acesso abaixo
                 </p>
-                <H1>Links</H1>
+                <H1 class="h1">Links</H1>
                 <li>
                     <a href="https://www.uol.com.br/start/">Uol</a> |
                     <a href="https://www.tecmundo.com.br/tecnologia">TecMundo</a> |
@@ -93,6 +126,10 @@
             <footer>
                 <h5 class="centralize">Criado Por Rodrigo R- Todos direitos reservados.</h5>
             </footer>
-        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
     </body>
 </html>
