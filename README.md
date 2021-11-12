@@ -1,10 +1,14 @@
-<h1 align="center">FATEC Profº Jessen Vidal, SJC - 1º Semestre DSM</h1>
-<h2 align="center"> Rodrigo Ribeiro Dos Santos </h2>
-
- <h1 align="center">Entrega Parcial</h1>
- <h2 align="center">Portifolio Navegável</h2>
+<h2 align="center">Portfólio</h2>
  <div>
- <h3 align="center"> Descrição das pastas </h3>
+ <div>
+    <h2 align="center">Entrega 1</h2>
+     <ul>
+       <Li>Waireframe-Desktop-Mobile(em pdf na :file_folder:pasta Doc) :heavy_check_mark:  </Li>
+       <Li> Prototipo Navegavel  :heavy_check_mark: </Li>
+       <Li>Codigo HTML(:file_folder:Pasta/templates/) E CSS(:file_folder:Pasta/static/CSS):heavy_check_mark:</Li>
+       <Li> Vídeo do YouTube :heavy_check_mark:</Li>
+     </ul>
+   <h3 align="center"> Descrição das pastas </h3>
    <ul>
       <Li>:file_folder:Doc= waireframe Desktop-Mobile.pdf  </Li>
       <Li>:file_folder:static=:file_folder:Pasta-CSS= home.css </Li>
@@ -12,27 +16,44 @@
       <Li>:card_index_dividers:	templates= (Contato.html),(Projetos1.html),(homesite.html),(sobre1.html). </Li>
       <Li>README.md
     </ul>
- </div>
- <div>
-    <h2 align="center">Entrega 1 Parcial</h2>
-     <ul>
-       <Li>Waireframe-Desktop-Mobile(em pdf na :file_folder:pasta Doc) :heavy_check_mark:  </Li>
-       <Li> Prototipo Navegavel  :heavy_check_mark: </Li>
-       <Li>Codigo HTML(:file_folder:Pasta/templates/) E CSS(:file_folder:Pasta/static/CSS):heavy_check_mark:</Li>
-       <Li> Vídeo do YouTube :heavy_check_mark:</Li>
-     </ul>
+  <hr>
   </div>
+  
  <div>
-   <h2> Entrega 2 </h2>
-    <p>Para a próxima Entrega, pretendo realizar os seguintes incrementos:</p>
+   <h2 align="center"> Entrega 2 </h2>
       <ul>
-        <Li>:pushpin:Sistema responsivo</li>
-        <Li>:pushpin:Implementação de imagens</li>
-        <li>:pushpin:Informações educacionais</li>
-        <li>:pushpin:Informações pertinentes (Interesses,Curiosidades).</li>
-        <li>:pushpin:Informações relevantes ou de interesse do autor/proprietário.</li>
-  </ul>
+        <Li>:pushpin:Sistema responsivo:heavy_check_mark:</li>
+        <Li>:pushpin:Implementação de imagens:heavy_check_mark:</li>
+        <li>:pushpin:Informações educacionais:heavy_check_mark:</li>
+        <li>:pushpin:Informações pertinentes(Interesses,Curiosidades).:heavy_check_mark:</li>
+        <li>:pushpin:Informações relevantes ou de interesse do autor/proprietário.:heavy_check_mark:</li>
+      </ul>
  </div>
+<h3>novas atualizações </h3>
+  
+ <ul>
+   <li>ajustes apontados pelo professor :heavy_check_mark:</li>
+   <li> tag do Git/GitHub. :heavy_check_mark:</li>
+  <li> diminuição nos commits :heavy_check_mark:</li>
+   <Li>:file_folder:static=:file_folder:Pasta-img= (gifff.gif),(gift.gif),(git.png),(quadro.jpg),(foto.jpg),(dow.png),(code.png),(celular.jpeg),(bot.png),(teclado2.jpg),(oculos,png). </Li>
+  <Li>README.md</li>
+ </ul> 
+  
+ <hr>
+<h2 align="center">Links para acesso as Tags para download</h2>
+<table>
+<tr>
+ <td>Entrega 1 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/tags">Link</a> </td> 
+ <tr>
+ <td>Entrega 2 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/tags">Link</a></td> 
+</tr>
+</tr>
+</table>
+
+
+
+<hr>
+
 <div>
  <h2>:copyright:Direitos Autorais utilizados nas imagens</h2>
    <h3>Algumas imagens foram retiradas do Pexels Direitos Autorais abaixo</h3>
@@ -47,7 +68,7 @@
  
  
  </div>
- 
+ <hr>
  
  <div>
   <h1 align="center">link para video no youtube</h1>
@@ -55,15 +76,15 @@
  
  
     
-  :link: [YOUTUBE](https://www.youtube.com/watch?v=Chd80Cysy74)
-
+  
+<table>
+<tr>
+ <td>video-entrega 1 | <a href="https://www.youtube.com/watch?v=Chd80Cysy74">Link</a>| 📅 20/09/2021 -⌚ 19:00 </td> 
+ <tr></tr>
+ <td>video-entrega 2 | <a href="https://youtu.be/LkKeNHvrkVM">Link</a>| 📅 12/11/2021 -⌚ 00:00 </td> 
+</tr>
+</table>
 
  
- <div>
-  </p>
- 
- <h4> Atenção Esta entrega parcial não é a entrega final.  </h4>
 
-  <h5 align="center">Este README.MD foi terminado em :date: 20/09/2021 -:watch: 19:00 </h5>
-</div>
  
