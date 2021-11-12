@@ -43,9 +43,9 @@
 <h2 align="center">Links para acesso as Tags para download</h2>
 <table>
 <tr>
- <td>Entrega 1 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/tags">Link</a> </td> 
+ <td>Entrega 1 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/releases/tag/v0.1">Link</a> </td> 
  <tr>
- <td>Entrega 2 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/tags">Link</a></td> 
+ <td>Entrega 2 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/releases/tag/v0.2">Link</a></td> 
 </tr>
 </tr>
 </table>
