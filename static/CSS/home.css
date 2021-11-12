@@ -1,3 +1,14 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
 body{
     margin: 0;
     font-family: 'Fjalla One', sans-serif;
@@ -9,35 +20,17 @@ footer{
     margin-top: 25%;
 }
 
-#topmenu{
-    display: flex;
-    background-color:rgb(220,220,220);
-    margin: 0;
-    padding: auto;
-}
 .foto1{
     width: 40px;
-    filter: contrast(12);
+    filter: contrast(1);
     
 }
 
 .H1{
     text-align:center;
+    
 }
 
-#topmenu li{
-   
-    background-color:rgb(220,220,220);
-    margin: 0;
-    text-decoration: none;
-    display:block;
-    padding: 1px;
-   
-}
-
-#topmenu li:first-child{
-    margin-right: auto;
-}
 .seçao1{
     display:flex;
     height: 28vh;
@@ -52,11 +45,15 @@ footer{
 }
 .conteiner1{
     display:flex;
-    height: 50%;
     width: 100%;
-    margin: 0%;
-    margin-top: 1%;
-    position:absolute;
+    margin-top: 100%;
+    
+}
+@media (max-width: 952px){
+    .conteiner1{
+        width: 100%;
+        margin-top: 100%;
+    }
 }
 
 .centralize{
@@ -70,70 +67,68 @@ footer{
     width: 33vh;
 }
 .imagemprojeto1{
-    width: 40vh;
+    width: 60vh;
     height: 35vh;
     padding-left: 10%;
     padding-top: 1%;
     filter: brightness(0,5);
 }
-.imagemprojeto3{
-    width: 40vh;
-    height: 30vh;
-    padding-top: 1%;
-    padding-left: 40%;
+@media (max-width: 952px){
+    .imagemprojeto1{
+        width: 80%;
+        margin: 5;
+        filter: brightness(3,5);   
+    }
+}
 
+.imagemprojeto3{
+    width: 40%;
+    margin: 50px 50px 50px 50px;
+    margin-left: 30%;
+
+}
+
+.image3{
+    
+    width: 10%;
+    
+    
     
  }
+ @media (max-width: 952px){
+    .image3{
+        width: 65%;
+    
+    }
+}
+
 .imagemprojeto2{
-    width: 40vh;
-    height: 40vh;
-    padding-left: 20%;
-    padding-top: 1;
+    width: 20%;
+    margin: 50px 50px;
     filter: brightness(5);
     filter: contrast(1);
     }
+    @media (max-width: 952px){
+        .imagemprojeto2{
+            width: 45%;
+        }
+}
+.email{
+    margin: 15px 15px 15px 15px;
+}
 
 .text1{
 margin-left: 1%;
 }
 #text2{
-    margin-right: 1%;
-    margin-left:1%;
+    margin-right: 2%;
+    margin-left:2%;
     border: 5px solid black;
     border-radius: 15px;
-     }
-
-
-#body{
-    background-color: rgba(240,248,255);
+    margin-top: 3%;
 }
-
-.buttonClass{
-    font-size:15px;
-    font-family:Arial;
-    width:200px;
-    height:100px;
-    border-width:1px;
-    color:#666666;
-    border-color:#dcdcdc;
-    font-weight:bold;
-    border-top-left-radius:6px;
-    border-top-right-radius:6px;
-    border-bottom-left-radius:6px;
-    border-bottom-right-radius:6px;
-    box-shadow:inset 0px 1px 0px 0px #ffffff;
-    text-shadow:inset 0px 1px 0px #ffffff;
-    background:linear-gradient(#ffffff, #f6f6f6);
-  }
-  
-  .buttonClass:hover {
-    background: linear-gradient(#f6f6f6, #ffffff);
-  }
-
-.image3{
-    width: 25%;
-    margin-left: 35%;
-    
-
-  }
- 
+.foto{
+    width: 35px;
+    filter: brightness(2);
+    filter: contrast(30);
+}
