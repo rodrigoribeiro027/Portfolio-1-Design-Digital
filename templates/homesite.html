@@ -4,31 +4,64 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" href="meu/quadro.jpg" type="image/x-icon">
+        <link rel="shortcut icon" href="../static/img/oculos.png" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="../static/CSS/home.css">
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
-    
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
     <title>Rodrigo Ribeiro-Portifolio WEB</title>
 
     </head>
         <body id="body">
            <!--TOPO -->
-            <div>
-                <nav>
-                    <ul id="topmenu">    
-                    
-                    <li>  <a href="../templates/homesite.html"> <img src="../static/img/quadro.jpg" alt="" class="foto1"> </a>  </li>
-                    <li>  <a href="../templates/homesite.html" class="buttonClass">Home</a>  </li>
-                    <li>  <a href="../templates/sobre1.html" class="buttonClass">Sobre</a>  </li>
-                    <li>  <a href="../templates/Projetos1.html" class="buttonClass">Projetos</a> </li>
-                    <li>  <a href="../templates/Contato.html" class="buttonClass">Contato</a> </li>
-                    </ul>
-                </nav>
-            </div>
+           <!-- posição às classes de uso da barra de navegação: parte superior fixa, parte inferior fixa parte superior da barra de navegação-->
+    <nav class="navbar navbar-expand-sm navbar-light  bg-light">
+      
+
+      
+        <!-- menu de hambúrguer -->
+        <!-- você precisa de três aulas para fazer -->
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+         <span class="navbar-toggler-icon"></span> <!-- isso cria o menu de hambúrguer -->
+        </button>
+  
+        <div class="collapse navbar-collapse" id="collapse_target">
+            <ul class="navbar-nav"> <!--2. ul tag -->
+              <li class="nav-item"> <!--3. li tag -->
+                <a class ="nav-link" href="../templates/homesite.html"> <!-- 4.li tag -->
+                  Home
+                </a>
+              </li>
+  
+              <li class="nav-item"> 
+                <a class ="nav-link" href="../templates/sobre1.html">
+                  Sobre
+                </a>
+              </li>
+  
+              <li class="nav-item"> 
+                <a class ="nav-link" href="../templates/Projetos1.html">
+                  Projetos
+                </a>
+              </li>
+  
+              <li class="nav-item"> 
+                <a class ="nav-link" href="../templates/Contato.html">
+                    Contato
+                </a>
+              </li>
+        </ul>
+      </div>
+      <a href="../templates/homesite.html"><img class="foto" src="../static/img/oculos.png" alt=""></a>
+      </nav>
+         
+        
+         
+          
             <!--NAME -->
 
         </div>
@@ -39,9 +72,9 @@
             <!--Meio -->
             </div>
             
-                <img  class="imagemprojeto1" src="../static/img/quadro.jpg" alt="imagem2"> 
-                <img  class="imagemprojeto1" src="../static/img/quadro.jpg" alt="imagem3">
-                <img  class="imagemprojeto1" src="../static/img/quadro.jpg" alt="imagem4">
+                <img  class="imagemprojeto1" src="../static/img/teclado2.jpeg" alt="imagem2"> 
+                <img  class="imagemprojeto1" src="../static/img/code.jpg" alt="imagem3">
+                <img  class="imagemprojeto1" src="../static/img/celular.jpeg" alt="imagem4">
             </div>
            
 
@@ -65,5 +98,10 @@
             <footer>
             <h5 class="centralize">Criado Por Rodrigo R- Todos direitos reservados.</h5>
         </footer>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     </body>
 </html>
