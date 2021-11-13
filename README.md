@@ -40,7 +40,7 @@
  </ul> 
   
  <hr>
-<h2 align="center">Links para acesso as Tags para download</h2>
+<h2 align="center">Links para acesso as Tags</h2>
 <table>
 <tr>
  <td>Entrega 1 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/releases/tag/v0.1">Link</a> </td> 
@@ -81,7 +81,7 @@
 <tr>
  <td>video-entrega 1 | <a href="https://www.youtube.com/watch?v=Chd80Cysy74">Link</a>| 📅 20/09/2021 -⌚ 19:00 </td> 
  <tr></tr>
- <td>video-entrega 2 | <a href="https://youtu.be/LkKeNHvrkVM">Link</a>| 📅 12/11/2021 -⌚ 00:00 </td> 
+ <td>video-entrega 2 | <a href="https://youtu.be/LkKeNHvrkVM">Link</a>| 📅 12/11/2021 -⌚ 17:00 </td> 
 </tr>
 </table>
 
