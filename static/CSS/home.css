@@ -104,13 +104,15 @@ footer{
 
 .imagemprojeto2{
     width: 20%;
-    margin: 50px 50px;
+    margin-left: 20%;
+    margin-top: 1%;
     filter: brightness(5);
     filter: contrast(1);
     }
     @media (max-width: 952px){
         .imagemprojeto2{
             width: 45%;
+            margin-left: 25%;
         }
 }
 .email{
