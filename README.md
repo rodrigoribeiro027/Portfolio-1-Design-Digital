@@ -81,7 +81,7 @@
 <tr>
  <td>video-entrega 1 | <a href="https://www.youtube.com/watch?v=Chd80Cysy74">Link</a>| 📅 20/09/2021 -⌚ 19:00 </td> 
  <tr></tr>
- <td>video-entrega 2 | <a href="https://youtu.be/LkKeNHvrkVM">Link</a>| 📅 14/11/2021 -⌚ 14:00 </td> 
+ <td>video-entrega 2 | <a href="https://www.youtube.com/watch?v=bo3xRj4JF_E">Link</a>| 📅 14/11/2021 -⌚ 14:00 </td> 
 </tr>
 </table>
 
