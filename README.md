@@ -29,6 +29,7 @@
         <li>:pushpin:Informações relevantes ou de interesse do autor/proprietário.:heavy_check_mark:</li>
       </ul>
  </div>
+  
 <h3>novas atualizações </h3>
   
  <ul>
@@ -38,6 +39,14 @@
    <Li>:file_folder:static=:file_folder:Pasta-img= (gifff.gif),(gift.gif),(git.png),(quadro.jpg),(foto.jpg),(dow.png),(code.png),(celular.jpeg),(bot.png),(teclado2.jpg),(oculos,png). </Li>
   <Li>README.md</li>
  </ul> 
+ 
+   <h2 align="center"> Entrega 3 </h2>
+      <ul>
+        <Li>:pushpin:implementação template base (jinja):heavy_check_mark:</li>
+        <Li>:pushpin:criação da tag 1°Semestre Versão final:heavy_check_mark:</li>
+        <li>:pushpin:deploy no heroku.:heavy_check_mark:</li>
+      </ul>
+ </div>
   
  <hr>
 <h2 align="center">Links para acesso as Tags</h2>
@@ -46,7 +55,9 @@
  <td>Entrega 1 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/releases/tag/v0.1">Link</a> </td> 
  <tr>
  <td>Entrega 2 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/releases/tag/v0.2">Link</a></td> 
-</tr>
+ <tr>
+ <td>Versão final | <a href="https://github.com/rodrigoribeiro027/Portfolio-1-Design-Digital/releases/tag/v0.3">Link</a></td> 
+ </tr>
 </tr>
 </table>
 
