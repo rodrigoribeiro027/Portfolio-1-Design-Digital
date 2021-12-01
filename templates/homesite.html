@@ -1,69 +1,12 @@
-<!DOCTYPE html>
-<html lang="pt br">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" href="../static/img/oculos.png" type="image/x-icon">
-        <link rel="stylesheet" type="text/css" href="../static/CSS/home.css">
+
+
+    {% extends "base.html" %}   
         
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
-        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-    <title>Rodrigo Ribeiro-Portifolio WEB</title>
-
-    </head>
+    {% block contents %} 
+   
         <body id="body">
-           <!--TOPO -->
-           <!-- posição às classes de uso da barra de navegação: parte superior fixa, parte inferior fixa parte superior da barra de navegação-->
-    <nav class="navbar navbar-expand-sm navbar-light  bg-light">
-      
-
-      
-        <!-- menu de hambúrguer -->
-        <!-- você precisa de três aulas para fazer -->
-        <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
-         <span class="navbar-toggler-icon"></span> <!-- isso cria o menu de hambúrguer -->
-        </button>
-  
-        <div class="collapse navbar-collapse" id="collapse_target">
-            <ul class="navbar-nav"> <!--2. ul tag -->
-              <li class="nav-item"> <!--3. li tag -->
-                <a class ="nav-link" href="../templates/homesite.html"> <!-- 4.li tag -->
-                  Home
-                </a>
-              </li>
-  
-              <li class="nav-item"> 
-                <a class ="nav-link" href="../templates/sobre1.html">
-                  Sobre
-                </a>
-              </li>
-  
-              <li class="nav-item"> 
-                <a class ="nav-link" href="../templates/Projetos1.html">
-                  Projetos
-                </a>
-              </li>
-  
-              <li class="nav-item"> 
-                <a class ="nav-link" href="../templates/Contato.html">
-                    Contato
-                </a>
-              </li>
-        </ul>
-      </div>
-      <a href="../templates/homesite.html"><img class="foto" src="../static/img/oculos.png" alt=""></a>
-      </nav>
-         
-        
-         
-          
+     
             <!--NAME -->
-
         </div>
             
            <img  class="conteiner" src="../static/img/gift.gif" alt="imagem1"> 
@@ -86,13 +29,10 @@
                 <p class="H1">
                     Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos 
                 </p>
-                
-                    
-                    <p class="H1">
-                        Email:Rodrigo.rsantos40@gmail.com
-                    </p>
-                </li>
-                
+                <p class="H11">
+                     <STrong>Email:Rodrigo.rsantos40@gmail.com</STrong> 
+                </p>
+              
             </div>
              <!--Rodapé -->
             <footer>
@@ -104,4 +44,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     </body>
+    {% endblock contents %}
 </html>
