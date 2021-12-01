@@ -30,6 +30,16 @@ footer{
     text-align:center;
     
 }
+.H11{
+    text-align:center;
+    
+}
+@media (max-width: 952px){
+    .H11{
+        font-size: 15px;
+        text-align:center;
+    }
+}
 
 .seçao1{
     display:flex;
@@ -134,3 +144,17 @@ margin-left: 1%;
     filter: brightness(2);
     filter: contrast(30);
 }
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(255, 255, 255);        /* color of the tracking area */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(117, 117, 117);    /* color of the scroll thumb */
+    border-radius: 10px;       /* roundness of the scroll thumb */
+    border: 2px solid rgb(150, 150, 150);  /* creates padding around scroll thumb */
+  }
