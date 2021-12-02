@@ -49,7 +49,7 @@
  </div>
   
  <hr>
-<h2 align="center">Links para acesso as Tags</h2>
+<h2 align="center">Links para acesso as Tags | Heroku</h2>
 <table>
 <tr>
  <td>Entrega 1 | <a href="https://github.com/rodrigoribeiro027/Portifolio-1-Design-Digital/releases/tag/v0.1">Link</a> </td> 
@@ -58,6 +58,10 @@
  <tr>
  <td>Versão final | <a href="https://github.com/rodrigoribeiro027/Portfolio-1-Design-Digital/releases/tag/v0.3">Link</a></td> 
  </tr>
+ <tr>
+ <td>Link do Heroku: | <a href="http://portfoliorodrigor.herokuapp.com/">Heroku</a></td> 
+ </tr>
+ 
 </tr>
 </table>
 
