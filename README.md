@@ -65,6 +65,49 @@
 </tr>
 </table>
 
+<h1> Tutorial de Utilização e Instalação da Aplicação </h1>
+
+Para acessar a aplicação via web acesse: 
+```console
+http://portfoliorodrigor.herokuapp.com/
+```
+
+
+
+
+Implantar esse sistema localmente:
+
+
+<strong> 1. Clonar o repositório </strong>
+
+<strong> 2. Criar um ambiente virtual </strong> 
+```console
+virtualenv env 
+```
+ou (cmd windows)
+
+```console
+py-3 -m venv venv
+```
+
+<strong> 3. Ativar o ambiente virtual:</strong>
+
+```console
+venv\scripts\activate
+```
+<strong> 5. Para atualizar a versão do python </strong>
+```console
+python -m pip install --upgrade pip
+```
+<strong> 4. Instalar as dependências:</strong>
+```console
+pip install -r requirements.txt
+```
+<strong> 5. Executar a aplicação </strong>
+```console
+python app.py
+```
+
 
 
 <hr>
