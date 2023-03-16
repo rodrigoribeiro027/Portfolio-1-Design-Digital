@@ -24,7 +24,7 @@ def Projetos1():
 def Contato():
     return render_template('contato.html')
 
-from app import app
+from api.app import app
 
 if __name__ == "__main__":
     app.run(debug=True)
