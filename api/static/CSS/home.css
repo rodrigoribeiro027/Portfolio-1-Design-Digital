@@ -5,6 +5,20 @@
     list-style: none;
     text-decoration: none;
 }
+.textoNome{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70;
+}
+.quadradoTexto{
+    display: flex;
+    justify-content: space-around ;
+    background-color: black;
+    height:30%;
+    align-items: center;
+    font-size: 2rem;
+    color: white;
+}
+
 a{
     list-style: none;
     text-decoration: none;
@@ -127,6 +141,7 @@ footer{
 }
 .email{
     margin: 15px 15px 15px 15px;
+    padding-left: 36%;
 }
 
 .text1{
