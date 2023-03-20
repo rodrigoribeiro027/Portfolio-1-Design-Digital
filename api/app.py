@@ -22,7 +22,7 @@ def Projetos1():
 
 @app.route('/Contato')
 def Contato():
-    return render_template('contato.html')
+    return render_template('Contato.html')
 
 from api.app import app
 
